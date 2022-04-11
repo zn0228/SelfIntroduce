@@ -31,6 +31,7 @@ int main() {
 	}
 
 	printf("%d", sum);
+asssdd
 
     int num, max=0, i,n;
 	scanf("%d", &n);
